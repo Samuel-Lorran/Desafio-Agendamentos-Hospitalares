@@ -44,45 +44,37 @@ http://localhost:8080
 
 1.  *Clone o repositório:*
     bash
-    git clone [https://github.com/Samuel-Lorran/Desafio-Agendamentos-Hospitalares.git](https://github.com/Samuel-Lorran/Desafio-Agendamentos-Hospitalares.git)
+    git clone [https://github.com/Samuel-Lorran/Desafio-Agendamentos-Hospitalares.git)
     cd Desafio-Agendamentos-Hospitalares
     
 
 2.  *Configuração do Banco de Dados:*
-    * Crie um banco de dados chamado agendamento_db.
-    * Configure as credenciais no arquivo de propriedades (Ex: src/main/resources/application.properties).
+
+    * Configure as credenciais no arquivo de propriedades (src/main/resources/application.properties).
 
 3.  *Instale as dependências e rode o projeto:*
     bash
-    # Exemplo para um projeto Java com Maven
     mvn install
     mvn spring-boot:run
     
-    Ou
 
-    bash
-    # Exemplo para um projeto Node.js
-    npm install
-    npm start
-    
+4.  *Acesso:* O serviço estará disponível em http://localhost:[PORTA:8080]
 
-4.  *Acesso:* O serviço estará disponível em http://localhost:[PORTA] (Ex: http://localhost:8080).
 
----
-
-## ✒️ Autor
+## ✒️ Equipe
 
 Seu nome e como entrar em contato.
 
 | Nome           | GitHub                                                      |
 | :------------- | :---------------------------------------------------------- |
 | *Samuel Lorran* | $https://github.com/Samuel-Lorran$ |
-| *LinkedIn (Opcional)* | [Seu Perfil no LinkedIn] |
+| *Antonio Lucielton*
+| *JAIRO*
 
----
+
 
 ## 📄 Licença
 
-Mencione o tipo de licença (se houver). Se não tiver certeza, pode usar a [Licença MIT](https://opensource.org/licenses/MIT).
+Licenca para uso livre para educaçional
 
 Este projeto está sob a licença [MIT License].
