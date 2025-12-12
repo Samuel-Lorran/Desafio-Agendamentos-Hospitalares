@@ -25,6 +25,30 @@ O sistema organiza os compromissos, evita conflitos de horário e facilita o aco
 * ✅ *Relatórios (Opcional):* Geração de listas de agendamentos por médico/dia.
 
 ---
+**Padroes de arquitetura**
+
+📄 PacienteRequest — DTO de Cadastro de Paciente
+
+O record PacienteRequest representa os dados necessários para cadastrar um paciente no sistema.
+Ele utiliza anotações de validação do Jakarta Validation para garantir a integridade das informações recebidas.
+
+🔍 Explicação das Validações
+✔️ nome
+@NotBlank: impede nome vazio ou composto apenas por espaços.
+
+Mensagem exibida: "Nome é obrigatório".
+
+✔️ cpf
+@NotBlank: o campo não pode ser vazio.
+
+@Pattern(regexp = "\d{11}"): exige que o CPF tenha exatamente 11 dígitos numéricos.
+
+Mensagem exibida: "CPF deve ter 11 dígitos".
+
+✔️ telefone
+@NotBlank: o telefone é obrigatório e não pode ficar vazio.
+
+Mensagem exibida: "Telefone é obrigatório".
 
 ## 🚀 Como Executar o Projeto
 
