@@ -69,7 +69,7 @@ Seu nome e como entrar em contato.
 | :------------- | :---------------------------------------------------------- |
 | *Samuel Lorran* | $https://github.com/Samuel-Lorran$ |
 | *Antonio Lucielton*
-| *JAIRO*
+| *Jairo Rocha*
 
 
 
