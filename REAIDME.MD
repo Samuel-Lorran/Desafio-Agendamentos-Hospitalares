@@ -99,9 +99,8 @@ Seu nome e como entrar em contato.
 
 ## 📄 Licença
 
-Licenca para uso livre para educaçional
+Licenca para uso livre educaçional
 
-Este projeto está sob a licença [MIT License].
 
 ## Relatório técnico do projeto
 **link:https://docs.google.com/document/d/1USpNzOM0-ZeN3AhXooiyaiZpbeuwT-GA8uzzmqUreJs/edit?usp=sharing
