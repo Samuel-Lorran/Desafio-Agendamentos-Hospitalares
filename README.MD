@@ -100,7 +100,7 @@ Seu nome e como entrar em contato.
 
 ## 📄 Licença
 
-Licenca para uso livre educaçional
+Licenca para uso livre educacional
 
 
 ## Relatório técnico do projeto
