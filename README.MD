@@ -33,6 +33,7 @@ O record PacienteRequest representa os dados necessários para cadastrar um paci
 Ele utiliza anotações de validação do Jakarta Validation para garantir a integridade das informações recebidas.
 
 🔍 Explicação das Validações
+
 ✔️ Nome
 @NotBlank: impede nome vazio ou composto apenas por espaços.
 
