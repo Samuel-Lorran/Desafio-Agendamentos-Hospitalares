@@ -92,7 +92,7 @@ Seu nome e como entrar em contato.
 
 | Nome           | GitHub                                                      |
 | :------------- | :---------------------------------------------------------- |
-| *Samuel Lorran* | $https://github.com/Samuel-Lorran$ |
+| *Samuel Lorran* | https://github.com/Samuel-Lorran |
 | *Antonio Lucielton* | https://github.com/eltinholopesplay-cyber |
 | *Jairo Rocha* | https://github.com/jairsantos123 |
 
