@@ -1,4 +1,4 @@
-Desafio: Sistema de Agendamentos Hospitalares
+Desafio: Sistema de Agendamentos Hospitalares.
 
 >  Descrição: 
 
@@ -33,19 +33,19 @@ O record PacienteRequest representa os dados necessários para cadastrar um paci
 Ele utiliza anotações de validação do Jakarta Validation para garantir a integridade das informações recebidas.
 
 🔍 Explicação das Validações
-✔️ nome
+✔️ Nome
 @NotBlank: impede nome vazio ou composto apenas por espaços.
 
 Mensagem exibida: "Nome é obrigatório".
 
-✔️ cpf
+✔️ Cpf
 @NotBlank: o campo não pode ser vazio.
 
 @Pattern(regexp = "\d{11}"): exige que o CPF tenha exatamente 11 dígitos numéricos.
 
 Mensagem exibida: "CPF deve ter 11 dígitos".
 
-✔️ telefone
+✔️ Telefone
 @NotBlank: o telefone é obrigatório e não pode ficar vazio.
 
 Mensagem exibida: "Telefone é obrigatório".
