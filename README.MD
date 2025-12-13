@@ -61,7 +61,7 @@ O que é necessário ter instalado na máquina antes de começar.
 * [ banco de dados PostgreSQL,Maven 3.6]
 * [ IDE Eclipse]
 
-### acessar a aplicaçao
+### Acessar a aplicaçao
 
 http://localhost:8080
 
